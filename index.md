@@ -21,7 +21,7 @@
 
 - [Are schools in Ireland engines of sex inequality? Institutional 
 structures which impact student’s choices.]
-<img src="images/images.pdf?raw=true"/>
+<img src="images/images.png?raw=true"/>
 
 ---
 
