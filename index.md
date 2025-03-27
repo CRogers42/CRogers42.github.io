@@ -20,7 +20,7 @@
 ### Sociology and Social Policy
 
 - [Are schools in Ireland engines of sex inequality? Institutional 
-structures which impact student’s choices.]
+structures which impact student’s choices.](/pdf/Are%20schools%20in%20Ireland%20engines%20of%20sex%20inequality.pdf)
 <img src="images/images.png?raw=true"/>
 
 ---
