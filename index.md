@@ -5,6 +5,7 @@
 ### Social Data Science
 
 [Replication Project](/sample_page)
+<img src="images/Replication Project Presentation.png?raw=true"/>
 
 ---
 
