@@ -1,11 +1,12 @@
 title: Charis Rogers
 logo: "/images/pic (2).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Student at Trinity College Dublin
+  Postgraduate Diploma Applied Social Data Science
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/charis-rogers-288755255/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
