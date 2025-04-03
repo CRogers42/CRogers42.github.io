@@ -4,7 +4,7 @@
 
 ### Social Data Science
 
-[Replication Project](/sample_page)
+[Replication Project](/pdf/Replication Project Presentation.pdf)
 <img src="images/Replication%20Project%20Presentation.pdf?raw=true"/>
 
 ---
