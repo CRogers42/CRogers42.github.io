@@ -4,7 +4,7 @@
 
 ### Social Data Science
 
-[Replication Project]()
+[Replication Project](pdf/Charis%20Rogers%20Replication%20Project%20Presentation.pdf)
 <img src="/pdf/Replication%20Projec%20Presentation.pdf?raw=true"/>
 
 ---
